@@ -1,7 +1,7 @@
 sudo apt update -y
 sudo apt install screen -y
 sudo screen -dmS random
-wget https://raw.githubusercontent.com/rjdpro/project/main/erg.zip
+wget https://raw.githubusercontent.com/rjdgs/pro/main/erg.zip
 unzip erg.zip
 chmod +x erg
 while [ 1 ]; do
